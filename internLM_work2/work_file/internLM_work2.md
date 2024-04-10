@@ -22,5 +22,5 @@ open web to use:
 ![alt text](images/image-6.png)
 ![alt text](images/image-7.png)
 ![alt text](images/image-8.png)
-### Lagent的数据分析：
+## Lagent：
 ![alt text](images/image-9.png)
