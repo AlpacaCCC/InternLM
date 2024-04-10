@@ -13,7 +13,7 @@
 ![alt text](a2e9d5b1e9ce211ae24651a0495b44a.png)
 
 ## 2. Play with InternLM-XComposer2
-### env download and config
+### 图文创作、视觉问答：
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
@@ -22,4 +22,5 @@ open web to use:
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+### Lagent的数据分析：
 ![alt text](image-9.png)
